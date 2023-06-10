@@ -1,4 +1,4 @@
-# MERN Full-Stack Project - Front End 
+# MERN Full-Stack Project - Back End 
 This project is created for exercise of MERN Stack programming.
 Original codes can be reached at [this link.](https://github.com/gitdagray/mern_stack_course)
 
